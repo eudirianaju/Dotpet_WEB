@@ -10,5 +10,5 @@ https://fiebedu-my.sharepoint.com/:u:/g/personal/rm82825_estudante_fieb_edu_br/E
 
 
 
-![Veja o site!](gif.gif)
+![Veja o site!](gif1.gif)
 
