@@ -10,12 +10,12 @@ https://fiebedu-my.sharepoint.com/:u:/g/personal/rm82825_estudante_fieb_edu_br/E
 
 
 
-![Veja o site!]
+[Veja o site!
 
 ![Descrição do GIF 4](home.gif)
-![Descrição do GIF 1](gif2.gif)
-![Descrição do GIF 2](gif1.gif)
 ![Descrição do GIF 3](cat.gif)
+![Descrição do GIF 2](gif1.gif)
+
 
 
 
