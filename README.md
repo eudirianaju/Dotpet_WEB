@@ -8,6 +8,8 @@ Desenvolvido usando HTML, CSS, JS e Java, com um toque de magia em banco de dado
 LINK PARA DOWNLOAD VIA ONEDRIVE:
 https://1drv.ms/u/s!AvgPjGqnkvMVjmqZ513bnMdk89TE?e=C8K2Yo
 
+Para abri-lo é necessario baixar o arquivo, abrir no SpringToolSuite, direcionar o workspace e importar o projeto.
+
 
 [Veja o site!
 
